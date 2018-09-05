@@ -1,0 +1,10 @@
+c:\users\skapoor\source\repos\CartBooking\CartBooking\bin\Debug\netcoreapp1.1\CartBooking.deps.json
+c:\users\skapoor\source\repos\CartBooking\CartBooking\bin\Debug\netcoreapp1.1\CartBooking.runtimeconfig.json
+c:\users\skapoor\source\repos\CartBooking\CartBooking\bin\Debug\netcoreapp1.1\CartBooking.runtimeconfig.dev.json
+c:\users\skapoor\source\repos\CartBooking\CartBooking\bin\Debug\netcoreapp1.1\CartBooking.dll
+c:\users\skapoor\source\repos\CartBooking\CartBooking\bin\Debug\netcoreapp1.1\CartBooking.pdb
+c:\users\skapoor\source\repos\CartBooking\CartBooking\obj\Debug\netcoreapp1.1\CartBooking.csprojResolveAssemblyReference.cache
+c:\users\skapoor\source\repos\CartBooking\CartBooking\obj\Debug\netcoreapp1.1\CartBooking.csproj.CoreCompileInputs.cache
+c:\users\skapoor\source\repos\CartBooking\CartBooking\obj\Debug\netcoreapp1.1\CartBooking.AssemblyInfo.cs
+c:\users\skapoor\source\repos\CartBooking\CartBooking\obj\Debug\netcoreapp1.1\CartBooking.dll
+c:\users\skapoor\source\repos\CartBooking\CartBooking\obj\Debug\netcoreapp1.1\CartBooking.pdb
